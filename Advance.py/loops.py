@@ -30,16 +30,18 @@
 
 # print(rev)
 
-a = int(input("tell your number"))
-rev = 0
-copy = a
-while a > 0:
-    rev = rev * 10 + a % 10 
-    a = a // 10
+# a = int(input("tell your number"))
+# rev = 0
+# copy = a
+# while a > 0:
+#     rev = rev * 10 + a % 10 
+#     a = a // 10
 
-print(rev)
-if rev == copy:
-    print("palindrome no.")
+# print(rev)
+# if rev == copy:
+#     print("palindrome no.")
 
-else:
-    print( "not a palindrom")
+# else:
+#     print( "not a palindrom")
+
+
