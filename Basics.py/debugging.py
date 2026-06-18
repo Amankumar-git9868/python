@@ -15,6 +15,7 @@ print(ord(v))
 
 print(r[0],r[-4])
 print(r[0:5:1])
+print(r[::-1]) #reverse string
 
 print(ladybugs/5)# explicit type conversion done by python itself output 4.0
 
